@@ -1,3 +1,3 @@
 # git_test
-hello biitchesss
+My first repo
 "Hello Odin!"
